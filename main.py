@@ -1,5 +1,9 @@
 
-
+"""
+projekt_1.py: první projekt do Engeto Online Testing Akademie
+author: Pavlína Čepcová
+email: cepcovap@gmail.com
+"""
 ukoly = []
 def hlavni_menu():
     vyber1 = "1. Přidat nový úkol"

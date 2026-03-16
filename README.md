@@ -24,7 +24,7 @@ Testování pokrývá:
 Testovací scénáře jsou součástí repozitáře ve formě PDF dokumentu.
 
 ##  Spuštění programu
-1. Otevřete terminál ve složce projektu.
+1. Otevřete terminál ve složce projektu
 2. Spustě program příkazem: python main.py
 
 Program se spustí v konzoli a zobrazí hlavní menu správce úkolů.

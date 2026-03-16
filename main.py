@@ -50,8 +50,8 @@ def zobrazit_ukoly():
         print("Žádné úkoly.")
         print()
         return
+    print("Seznam úkolů:")
     for i, (nazev, popis) in enumerate(ukoly, start=1):
-        print("Seznam úkolů:")
         print(f"{i}. {nazev} - {popis}")
         print()
     
